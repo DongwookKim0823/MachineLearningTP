@@ -1,0 +1,11 @@
+{% extends 'headerPage.html' %}
+
+{% block content%}
+    <br><br>
+    <h2 style="margin-left:150px">The classification of the image is {{predictedLabel}}</h2> <br>
+    <img src={{filePathName}} alt='imagename' width="400" style="margin-left:150px">
+
+    <br>
+    <h4 style="color: red; margin-left:150px;">It's not the exact result. Consult your doctor for accurate test results.</h4>
+   
+{% endblock %}

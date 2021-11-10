@@ -1,0 +1,33 @@
+{% extends 'headerPage.html' %}
+
+{% block content%}
+    <br><br>
+    <h2 style="margin-left:150px">Uplaod Image for Classification</h2>
+
+    
+    <br>
+   
+    <form method="post" enctype="multipart/form-data" action="predictImage">
+  
+ {% csrf_token %}
+ <br><br>
+ <div class="col-md-4 col-sm-4"><label for="fname" style="margin-left:180px" >Upload Image File Here:</label> </div>
+
+ <label for="upload">
+    <span class="glyphicon glyphicon-folder-open" aria-hidden="true"></span>
+    <input name="filePath" type="file" id="upload" style="display:none">
+ </label>
+ 
+ <br><br>
+ <br><br><br>
+
+ 
+ <input type="submit" value="Submit" style="margin-left:150px" class="btn btn-default btn-lg"></div>
+ 
+
+
+</form>
+<br>
+
+
+{% endblock %}
