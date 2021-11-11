@@ -3,9 +3,6 @@
 ## 주제💻
 ### - 폐 x-ray를 통해 폐렴, 코로나, 정상 판별하는 서비스
 
-## 공모전 참가
-<img src="https://user-images.githubusercontent.com/71435571/141253940-50cec433-e5b1-491b-819c-4831ae6541b6.png)" width="100" height="350"/>
-
 ## 팀명🥼
 - 코로나 없어져(조)
 
@@ -26,5 +23,8 @@
 - 모델의 정확도 향상 목표
 - 제안발표 ppt
 [코로나없어져(조)_제안발표.pptx](https://github.com/0csong/MachineLearningTP/files/7518228/_.pptx)
+
+## 공모전 참여
+<img src="https://user-images.githubusercontent.com/71435571/141255403-1ae5f195-3cc9-4fd4-93bb-a879727d5686.jpg" width="400">
 
 ## 실행 화면
