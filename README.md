@@ -28,3 +28,6 @@
 <img src="https://user-images.githubusercontent.com/71435571/141255403-1ae5f195-3cc9-4fd4-93bb-a879727d5686.jpg" width="400">
 
 ## 실행 화면
+
+## Output code
+(https://www.kaggle.com/songdevelop/covid-19-xception)
