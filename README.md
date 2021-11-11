@@ -16,6 +16,7 @@
 
 ## 프로젝트 설명💬
 - 폐 x-ray를 CNN을 이용해 폐렴, 코로나, 정상 판별하고 판별한 이유가 되는 부분 표시
+
 ![image](https://user-images.githubusercontent.com/71435571/141249793-f2ae101d-3e9d-4943-bbfd-3a49ac511a7c.png)
 ![image](https://user-images.githubusercontent.com/71435571/141249858-28f3482a-a7cc-4497-8294-b9d3b6c0d9d5.png)
 - 웹 서비스 구현
