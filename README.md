@@ -27,6 +27,15 @@
 ## 공모전 참여
 <img src="https://user-images.githubusercontent.com/71435571/141255403-1ae5f195-3cc9-4fd4-93bb-a879727d5686.jpg" width="400">
 
+
+## 서비스 기능 소개📃
+
+|          |                        코로나19                        |                        정상                        |                    폐렴                     |
+| :------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+| 실행화면 | <img width="300" src="https://user-images.githubusercontent.com/74606041/141777380-92400988-cc19-4f9a-80f4-1a80052386f7.gif"> | <img width="300" src="https://user-images.githubusercontent.com/74606041/141777724-c9633bf3-8ac5-4ddb-8f0f-71fc4bfabfef.gif"> | <img width="300" src="https://user-images.githubusercontent.com/74606041/141777891-34c07a21-79ab-4fbf-a194-367140e0132d.gif"> |
+
+<br>
+
 ## 작동 output
 (https://www.kaggle.com/songdevelop/covid-19-xception)
 
