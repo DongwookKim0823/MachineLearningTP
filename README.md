@@ -29,3 +29,6 @@
 
 ## 작동 output
 (https://www.kaggle.com/songdevelop/covid-19-xception)
+
+## 설명영상
+https://www.youtube.com/watch?v=jChMPuiGB8A&t=131s
