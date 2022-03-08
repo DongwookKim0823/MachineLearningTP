@@ -1,4 +1,4 @@
-# 2021 MachineLearning Team Project
+# 2021 2학기 SW교육성과컨벤션 AI·SW공모전
 
 ## 주제💻
 - ### 폐 x-ray를 통해 폐렴, 코로나, 정상 판별하는 서비스 (우수상 수상)
